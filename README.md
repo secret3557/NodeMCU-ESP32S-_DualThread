@@ -13,3 +13,6 @@ a simple example to create a thread on ESP32S
 
 ## OS:
 - Windows 10 (64-bit)
+
+## Result:
+![image](https://github.com/secret3557/NodeMCU-ESP32S-_DualThread/blob/master/image.png)
